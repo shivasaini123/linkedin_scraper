@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+*.pyo
+*.db
+checkpoint_queue.db
+scraper.log
+enriched_linkedin_data*.csv
+.env
+.vscode/
+.idea/

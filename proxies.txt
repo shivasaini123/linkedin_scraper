@@ -1,0 +1,7 @@
+# LinkedIn Data Enrichment - Proxies Configuration File
+# Add your HTTP, HTTPS, or SOCKS5 proxies below (one proxy per line)
+# Format examples:
+# http://username:password@proxy.example.com:8080
+# socks5://username:password@proxy.example.com:1080
+# http://192.168.1.1:8080
+
